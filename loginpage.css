@@ -1,3 +1,15 @@
+h2{
+  font-family: 'Dancing Script', cursive;
+  font-size: 200px;
+  color: Goldenrod;
+  text-align: center;
+  margin: auto 250px auto 250px;
+  min-width: 500px;
+  
+}
+
+
+
 /* Bordered form */
 body  {
   background-color:‎#950E5B;
