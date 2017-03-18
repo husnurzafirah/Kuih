@@ -50,18 +50,23 @@ h2{
   min-width: 500px;
  }
 
+ .para-align {
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+ }
+
 p1 {
  	color: ;
- 	margin-left: 50px;
- 	margin-right: 50px;
  	min-width: 500px;
+  text-align: justify;
  	
  }
 p2 {
  	color: ;
- 	margin-left: 50px;
- 	margin-right: 50px;
+ 	
  	min-width: 500px;
+  text-align: justify;
  	
  }
  .navbar-brand{
