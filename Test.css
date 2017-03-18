@@ -1,0 +1,31 @@
+body{
+  font-family: Helvetica;
+  font-size:12px;
+  background-color: olive;
+}
+
+h1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 100px;
+  color: Goldenrod;
+  text-align: left;
+  margin: 100px 250px auto 250px;
+  min-width: 500px;
+}
+
+.navbar-brand{
+  font-family: 'Dancing Script', cursive;
+  color: Goldenrod;
+  font-size: 20px;
+}
+
+.navbar-brand1{
+  font-family: 'Dancing Script', cursive;
+  color: Goldenrod;
+  font-size: 20px;
+}
+.dropdown-toggle{
+  font-family: 'Dancing Script', cursive;
+  color: Goldenrod;
+  font-size: 20px;
+}
